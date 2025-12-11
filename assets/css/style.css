@@ -1061,7 +1061,7 @@ body {
     position: relative;
     transition: color 0.25s ease;
     
-    font-size: clamp(0.95rem, 4vw, 1.25re,);
+    font-size: clamp(0.95rem, 4vw, 1.25rem);
     word-break: break-word;
     overflow-wrap: break-word;
     display: block;
@@ -1715,5 +1715,6 @@ body {
         right: 20px;
     }
 }
+
 
 
